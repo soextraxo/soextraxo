@@ -1,16 +1,13 @@
-## Hi there 👋
+### yo, i'm soextraxo 👋
 
-<!--
-**soextraxo/soextraxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Australia.
 
-Here are some ideas to get you started:
+- 🎯 This year's goal: ship something every month
+- 📫 How to reach me: **@soextraxo** on GitHub
+- 📝 I keep notes about container orchestration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=soextraxo&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=merko" alt="soextraxo GitHub stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=soextraxo&hide_border=true&theme=merko" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/Kubernetes-f778ba?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Terraform-f778ba?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/Bash-f778ba?style=for-the-badge&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Docker-f778ba?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-f778ba?style=for-the-badge&logoColor=white" alt="Linux" />
